@@ -50,12 +50,8 @@ Un site statique simple pour présenter le menu du restaurant en plusieurs langu
 - Gardez des contrastes suffisants et utilisez des balises sémantiques (`header`, `main`, `section`)
 - Utilisez `lang` sur la balise `html` pour chaque page locale (déjà en place)
 
-## SEO minimal
-- Vérifiez les balises `<title>` et éventuelles meta descriptions par page
+## Recommandations
 - Servez le site via HTTPS si possible
 
 ## Crédits
-- Développement: Xyon et Antonfcs (mention dans le code)
-
-## Licence
-- Non spécifiée. Ajoutez un fichier de licence si nécessaire.
+- Développement: Xyon et Antonfcs
